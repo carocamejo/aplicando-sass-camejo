@@ -1,0 +1,31 @@
+@import "variables";
+@import "contacto";
+@import "aside";
+
+
+header {
+    nav {
+        border: 3px solid black;
+        ul {
+            text-decoration: none;
+            li {
+                background-color: $color-fondo;
+                a {
+                    color: $color-texto;
+                
+                }
+            }
+        }
+
+    }
+}
+main {
+    div {
+        border: 1px solid green;
+        padding: 20px 20px;
+        h1 {
+            background-color: $color-fondo;
+            color: $color-texto;
+        }
+    }
+}

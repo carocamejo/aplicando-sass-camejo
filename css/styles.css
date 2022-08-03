@@ -1,0 +1,37 @@
+form {
+  display: flex;
+  flex-direction: row;
+}
+
+p {
+  color: white;
+}
+
+p {
+  background-color: green;
+  color: white;
+}
+
+header nav {
+  border: 3px solid black;
+}
+header nav ul {
+  text-decoration: none;
+}
+header nav ul li {
+  background-color: green;
+}
+header nav ul li a {
+  color: white;
+}
+
+main div {
+  border: 1px solid green;
+  padding: 20px 20px;
+}
+main div h1 {
+  background-color: green;
+  color: white;
+}
+
+/*# sourceMappingURL=styles.css.map */
